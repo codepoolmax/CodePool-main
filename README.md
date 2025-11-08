@@ -2,8 +2,6 @@
 
 <img src="public/codepool.png" alt="CodePool Logo" width="200"/>
 
-# CodePool
-
 ### 一站式高效无限续杯解决方案
 
 [![GitHub release](https://img.shields.io/github/v/release/codepoolmax/CodePool-main)](https://github.com/codepoolmax/CodePool-main/releases)
