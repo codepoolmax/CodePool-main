@@ -7,8 +7,8 @@
 ### 一站式高效无限续杯解决方案
 
 [![GitHub release](https://img.shields.io/github/v/release/codepoolmax/CodePool-main)](https://github.com/codepoolmax/CodePool-main/releases)
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 [![Platform](https://img.shields.io/badge/platform-Windows%20%7C%20macOS%20%7C%20Linux-lightgrey.svg)](https://github.com/codepoolmax/CodePool-main/releases)
+[![Website](https://img.shields.io/badge/website-codepool.vip-blue.svg)](https://codepool.vip)
 
 [官方网站](https://codepool.vip) · [下载安装](#-安装) · [使用文档](#-使用) · [常见问题](#-常见问题)
 
@@ -27,22 +27,6 @@
 - 🚀 **极速换号** - 毫秒级响应，流畅续杯体验
 - 🔓 **无模型限制** - 真正无限制使用，支持所有主流 AI 模型
 - 🖥️ **多平台支持** - 完美支持 Windows、macOS、Linux
-- 🛠️ **多 IDE 支持** - 支持主流 AI 编程 IDE 助手，一站式解决方案
-
-### 🎯 支持的 IDE
-
-<div align="center">
-
-| IDE | 支持状态 | 说明 |
-|-----|---------|------|
-| **Cursor** | ✅ 完美支持 | 最受欢迎的 AI 编程工具 |
-| **Windsurf** | ✅ 完美支持 | 新一代 AI 编程助手 |
-| **Augment** | ✅ 完美支持 | 智能代码补全 |
-| **Codebuddy** | ✅ 完美支持 | AI 编程伙伴 |
-| **Qoder** | ✅ 完美支持 | 高效编程工具 |
-| **Warp** | ✅ 完美支持 | 现代化终端 |
-
-</div>
 
 ---
 
@@ -163,14 +147,8 @@ A: 无模型限制，真正无限制使用，支持所有主流 AI 模型。
 ## 📞 联系我们
 
 - 🌐 官方网站：[https://codepool.vip](https://codepool.vip)
-- 💬 代理咨询：[QQ 2210946164](https://res.abeim.cn/api/qq/?qq=2210946164)
+- � 用户交流群：[点击加入 QQ 群](https://qm.qq.com/q/JjUykouvek)
 - 📧 技术支持：森遇网络
-
----
-
-## 📜 许可证
-
-本项目采用 MIT 许可证。详见 [LICENSE](LICENSE) 文件。
 
 ---
 
@@ -186,7 +164,7 @@ A: 无模型限制，真正无限制使用，支持所有主流 AI 模型。
 
 Made with ❤️ by CodePool Team
 
-© 2024 CodePool. 保留所有权利.
+© 2025 CodePool. 保留所有权利.
 
 </div>
 
