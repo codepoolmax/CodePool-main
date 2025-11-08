@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="picture/codepool.png" alt="CodePool Logo" width="200"/>
+<img src="public/codepool.png" alt="CodePool Logo" width="200"/>
 
 # CodePool
 
