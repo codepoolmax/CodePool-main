@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="public/软件首页 (1).png" alt="CodePool Logo" width="800"/>
+<img src="picture/codepool.png" alt="CodePool Logo" width="200"/>
 
 # CodePool
 
@@ -58,6 +58,10 @@ CodePool-x.x.x.deb
 ---
 
 ## 💡 使用
+
+<div align="center">
+<img src="public/软件首页 (1).png" alt="软件首页" width="700"/>
+</div>
 
 ### 1. 启动软件
 
@@ -149,6 +153,7 @@ A: 无模型限制，真正无限制使用，支持所有主流 AI 模型。
 - 🌐 官方网站：[https://codepool.vip](https://codepool.vip)
 - � 用户交流群：[点击加入 QQ 群](https://qm.qq.com/q/JjUykouvek)
 - 📧 技术支持：森遇网络
+- 💡 问题反馈：如果您有好的建议或遇到问题，请[提交 Issue](https://github.com/codepoolmax/CodePool-main/issues)
 
 ---
 
