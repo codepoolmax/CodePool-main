@@ -112,12 +112,6 @@ CodePool-x.x.x.deb
 
 ---
 
-## 🤝 信赖之选
-
-CodePool 深受全球开发者信赖，与 Google、Microsoft、Yahoo、Yandex、Baidu 等知名企业的开发者共同使用。
-
----
-
 ## ❓ 常见问题
 
 <details>
@@ -127,21 +121,25 @@ A: CodePool 提供超低价格的订阅服务，相比官方订阅节省 90% 费
 </details>
 
 <details>
-<summary><b>Q: 支持哪些 IDE？</b></summary>
+<summary><b>Q: 为什么给模型发信息显示以下内容？</b></summary>
 <br>
-A: 目前支持 Cursor、Windsurf、Augment、Codebuddy、Qoder、Warp 等主流 AI 编程 IDE。
+<div align="center">
+<img src="public/模型不可用.png" alt="取号界面" width="600"/>
+</div>
+<br>
+A: 因为你没有开魔法或者魔法不可用，自行检查后重试！
 </details>
 
 <details>
 <summary><b>Q: 如何获取账号？</b></summary>
 <br>
-A: 下载并安装 CodePool 软件，在软件中注册登录后，即可一键获取账号。
+A: 下载并安装 CodePool 软件，在软件中注册登录购买相应套餐后，即可一键获取账号自动上号。
 </details>
 
 <details>
 <summary><b>Q: 账号有使用限制吗？</b></summary>
 <br>
-A: 无模型限制，真正无限制使用，支持所有主流 AI 模型。
+A: 无模型限制，真正无限制使用，支持所有主流AI模型。
 </details>
 
 ---
@@ -149,7 +147,7 @@ A: 无模型限制，真正无限制使用，支持所有主流 AI 模型。
 ## 📞 联系我们
 
 - 🌐 官方网站：[https://codepool.vip](https://codepool.vip)
-- � 用户交流群：[点击加入 QQ 群](https://qm.qq.com/q/JjUykouvek)
+- 🗄 用户交流：[1011072062](https://qm.qq.com/q/JjUykouvek)
 - 📧 技术支持：森遇网络
 - 💡 问题反馈：如果您有好的建议或遇到问题，请[提交 Issue](https://github.com/codepoolmax/CodePool-main/issues)
 
